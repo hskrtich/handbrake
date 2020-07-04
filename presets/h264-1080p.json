@@ -53,7 +53,7 @@
         }
       ],
       "AudioSecondaryEncoderMode": true,
-      "AudioTrackSelectionBehavior": "all",
+      "AudioTrackSelectionBehavior": "first",
       "ChapterMarkers": true,
       "ChildrenArray": [],
       "Default": false,
